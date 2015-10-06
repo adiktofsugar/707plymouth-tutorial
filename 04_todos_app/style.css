@@ -1,0 +1,23 @@
+body {
+    background: #eee;
+    color: #333;
+}
+
+.todo {
+    margin-bottom: 1em;
+}
+.todo .date, .todo .delete-button {
+    display: inline-block;
+}
+.todo .date {
+    font-size: 80%;
+    color: #aaa;
+}
+.todo .delete-button {
+    float: left;
+    margin-right: 1em;
+    font-size: 80%;
+    color: #f00;
+}
+.todo .message {
+}
