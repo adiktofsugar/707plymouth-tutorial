@@ -1,4 +1,4 @@
-Lesson 01 - JS intro
+Lesson 02 - JS intro
 ====
 
 - Open "index.html"
